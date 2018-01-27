@@ -1,6 +1,4 @@
-.btn {
-none
-}
+
 <form>
   <br>
   <input type="text" name="lastname">
