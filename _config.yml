@@ -1,27 +1,3 @@
 theme: jekyll-theme-cayman
-showHeaderFooter: true
-header:
-- '&cWelcome &f${viewer name}'
-- '&eW&celcome &f${viewer name}'
-- '&eWe&clcome &f${viewer name}'
-- '&eWel&ccome &f${viewer name}'
-- '&eWelc&come &f${viewer name}'
-- '&eWelco&cme &f${viewer name}'
-- '&eWelcom&ce &f${viewer name}'
-- '&eWelcome &f${viewer name}'
-- '&cW&eelcome &f${viewer name}'
-- '&cWe&elcome &f${viewer name}'
-- '&cWel&ecome &f${viewer name}'
-- '&cWelc&eome &f${viewer name}'
-- '&cWelco&eme &f${viewer name}'
-- '&cWelcom&ee &f${viewer name}'
-- '&cWelcome &f${viewer name}'
-headerAnimationUpdateInterval: 0.2
-footer:
-- |-
-  &6Line 1
-  &eLine 2
-- |-
-  &eLine 1
-  &6Line 2
-footerAnimationUpdateInterval: 0.5
+showHeaderFooter: false
+show_downloads: false
