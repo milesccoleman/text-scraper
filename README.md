@@ -1,4 +1,4 @@
 <form>
-  <br>Enter URL
+  <br>
   <input type="text" name="lastname">
 </form>
