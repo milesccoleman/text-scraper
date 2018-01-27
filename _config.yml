@@ -1,3 +1,3 @@
 theme: jekyll-theme-cayman
-showHeaderFooter: false
+show_Footer: false
 show_downloads: false
