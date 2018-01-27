@@ -1,18 +1,3 @@
 theme: jekyll-theme-cayman
-
-name: Jekyll Themes
-url: http://matt.harzewski.com
-description: Insert tagline here
-
-permalink: /themes/:title/
-
-gems: [jekyll-paginate]
-
-highlighter: pygments
-paginate: 20
-
-markdown: rdiscount
-rdiscount:
-    extensions: ['smart']
-
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
+name: Text-Scraper
+description: Grab All of the Text!
