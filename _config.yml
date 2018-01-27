@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 name: Text-Scraper
 description: grab all of the text!
 
+button: none
 footer-links:
   dribbble:
   email:
