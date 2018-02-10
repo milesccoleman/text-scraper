@@ -17,7 +17,7 @@ def text_from_html(body):
     visible_texts = filter(tag_visible, texts)  
     return u" ".join(t.strip() for t in visible_texts)
 
-url = raw_input("Enter full website to extract the URL's from: ")
+url = request.form('url')
 
 r  = requests.get(url)
 
