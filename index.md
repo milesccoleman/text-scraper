@@ -1,6 +1,6 @@
 
 <form action="/hello" method="post">
-              	Enter Full Website URL <input type="text" name="url"><br/>
+              	<input type="text" name="url"><br/>
                 <input type="submit" name= "form" value="Submit" />
             </form>
 
